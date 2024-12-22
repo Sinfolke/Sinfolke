@@ -9,7 +9,8 @@
 ---
 ### Hi there 👋
 You're seeing a **C++** and **JavaScript** developer!  
-I am currently learning to become a **backend developer**, but I have a passion for creating various **console applications** in C++. I am also planning to get in touch with **Go language** to expand my programming skills.
+I am currently learning to become a **backend developer**, but I have a passion for creating various console applications in C++. I am also planning to get in touch with **Go** language to expand my programming skills.
+
 ---
 <!--
 <div align="center">
@@ -20,19 +21,12 @@ I am currently learning to become a **backend developer**, but I have a passion 
 I’m currently working on **ISPA Parser**, a tool designed to parse data based on customizable rules that resemble **ANTLR** grammar.  
 
 The goal is to provide developers with a flexible and efficient way to define and process parsing logic, enabling seamless integration into diverse applications. I want it be as possible more simple in use.
+
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Sinfolke&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 ### What i'm learning
-I'm learning **C++** and practising it. I mean i already know necessary but practise it writin ispa, in same time making useful tool. 
----
-### Here are some ideas to get you started:
-- 🔭 I’m currently working on [Your Current Project Name or Description].
-- 🌱 I’m currently learning [Your Current Technology or Framework].
-- 👯 I’m looking to collaborate on [Type of Projects or Specific Technologies].
-- 💬 Ask me about [Your Area of Expertise].
-- 📫 How to reach me: [Your Contact Info or Email].
-- ⚡ Fun fact: [Interesting Fact About You].
+I'm learning C++ and practising it. I mean I already know the necessary but practise it writing ISPA, at the same time making a useful tool.
 
 ---
 
