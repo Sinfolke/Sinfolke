@@ -20,7 +20,7 @@ I am currently learning to become a **backend developer**, but I have a passion 
 ### 💻 What I'm Working On  
 I’m currently working on **ISPA Parser**, a tool designed to parse data based on customizable rules that resemble **ANTLR** grammar.  
 
-The goal is to provide developers with a flexible and efficient way to define and process parsing logic, enabling seamless integration into diverse applications. I want it be as possible more simple in use.
+The goal is to write standalone parser in most simple way.
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Sinfolke&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
