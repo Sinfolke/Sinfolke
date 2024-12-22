@@ -41,6 +41,9 @@ I'm learning C++ and practising it. I mean I already know the necessary but prac
 
 ### Let's Connect 🌐
 <div align="center">
+  <a href="https://www.linkedin.com/in/yuriy-vaschinsky-b41939342" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://t.me/Sinfolke" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -52,9 +55,7 @@ I'm learning C++ and practising it. I mean I already know the necessary but prac
 <!--
 <div align="center">
  <!--
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
