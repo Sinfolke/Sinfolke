@@ -41,6 +41,17 @@ I'm learning C++ and practising it. I mean I already know the necessary but prac
 
 ### Let's Connect 🌐
 <div align="center">
+  <a href="https://t.me/Sinfolke" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:uravasinski@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<!--
+<div align="center">
+ <!--
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -51,7 +62,7 @@ I'm learning C++ and practising it. I mean I already know the necessary but prac
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
+ -->
 <!--
 
 - 🔭 I’m currently working on ...
