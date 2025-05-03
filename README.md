@@ -18,7 +18,7 @@ I am currently learning to become a **backend developer**, but I have a passion 
 </div>
  -->
 ### 💻 What I'm Working On  
-I’m currently working on **ISPA Parser**, a tool designed to parse data based on customizable rules that resemble **ANTLR** grammar.  
+I’m currently working on **ISPA Parser**, a tool designed to parse data based on customizable rules.  
 
 The goal is to write standalone parser in most simple way.
 
