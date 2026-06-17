@@ -1,0 +1,363 @@
+alias developer {
+    "developer",
+    "engineer",
+    "розробник",
+    "інженер",
+    "Фахівець",
+    "спеціаліст",
+    "Аналізатор" weight 0.4
+}
+alias backend_developer {
+    "Backend",
+    "Backend" developer,
+    "api" developer,
+    "server-side" developer,
+    "Серверний" developer
+}
+alias python_developer {
+    python,
+    python developer
+}
+alias web_scrapper {
+    "Scraper",
+    "Parser",
+    "Data" "Extraction",
+    "Automation" developer,
+    "Парсер",
+    "Збір даних"
+}
+alias system_developer {
+    "System" developer,
+    "Системний" developer,
+    "Terminal" developer,
+    "Console" "App" developer,
+    "Термінал" developer,
+}
+alias desktop_developer {
+    "Desktop" developer,
+    "PC" developer,
+    "Computer" "App" developer,
+    "PC" "App" developer
+}
+alias CMakefiles {
+    "Cmake",
+    "CMakefiles"
+}
+alias Makefiles {
+    "makefiles",
+    "make"
+}
+alias poltava {
+    "Poltava",
+    "Полтава",
+    "Poltavs'ka" "oblast",
+    "Полтавська" "область"
+}
+alias remote {
+    "Remote",
+    "Віддалено",
+    "Дистанційно"
+}
+alias ukraine {
+    "Ukraine",
+    "Україна",
+    "Ukrainian" "company",
+    "українська" "компанія"
+}
+
+alias english {
+    "English",
+    "англійська",
+    "English B1",
+    "English B2",
+    "Intermediate" "English",
+    "Upper-Intermediate" "English"
+}
+
+alias ukrainian {
+    "Ukrainian",
+    "українська",
+    "UA"
+}
+
+alias russian {
+    "Russian",
+    "російська"
+}
+
+alias junior {
+    "Junior",
+    "Trainee",
+    "Intern",
+    "Entry level",
+    "Початковий"
+}
+
+alias middle {
+    "Middle",
+    "Mid",
+    "Mid-level",
+    "Intermediate"
+}
+alias senior {
+    "Senior",
+    "Сеньйор",
+    "Proficient",
+}
+alias postgresql {
+    "PostgreSQL",
+    "Postgres",
+    "psql"
+}
+
+alias cpp {
+    "C++",
+    "CPP",
+    "cplusplus"
+}
+
+alias typescript {
+    "TypeScript",
+    "TS"
+}
+
+alias javascript {
+    "JavaScript",
+    "JS",
+    "NodeJS",
+    "Node.js"
+}
+alias python {
+    "Python",
+    "Py",
+    "CPython",
+    "PyPy"
+}
+alias Embedded {
+    "Embedded",
+    "Мікроконтроллери",
+    "Низькорівневий"
+}
+alias linux {
+    "Linux",
+    "GNU/Linux",
+    "Kernel Linux",
+    "Linux OS"
+}
+
+alias ubuntu {
+    "Ubuntu",
+    "Ubuntu Server",
+    "Ubuntu Desktop",
+    "Canonical Ubuntu",
+    "LTS"
+}
+alias experience_word {
+    "experience",
+    "досвід",
+    "навички"
+}
+alias experience {
+    "commercial" experience_word,
+    "work" experience_word,
+    "комерційний" experience_word,
+    "робочий" experience_word
+}
+alias tester {
+    "Tester",
+    "QA",
+    "QA" "Engineer",
+    "Software" "Tester",
+    "Quality" "Assurance",
+    "Тестувальник",
+    "Інженер" "тестування"
+}
+alias testing {
+    "Testing",
+    "Software" "Testing",
+    "QA",
+    "Quality" "Assurance",
+    "Тестування",
+    "Перевірка" "ПЗ"
+}
+alias manual_testing {
+    "Manual" "Testing",
+    "Manual" "QA",
+    "Ручне" "тестування"
+}
+alias automation_testing {
+    "Automation" "Testing",
+    "QA" "Automation",
+    "Automated" "Testing",
+    "Автоматизоване" "тестування"
+}
+alias api_testing {
+    "API" "Testing",
+    "REST" "API" "Testing",
+    "Postman" "API",
+    "Тестування" "API"
+}
+alias ui_testing {
+    "UI Testing",
+    "Frontend" "Testing",
+    "Interface" "Testing",
+    "Тестування" "інтерфейсу"
+}
+alias regression_testing {
+    "Regression" "Testing",
+    "Регресійне" "тестування"
+}
+alias functional_testing {
+    "Functional" "Testing",
+    "Функціональне" "тестування"
+}
+alias trainee {
+    "Trainee",
+    "Intern",
+    "Junior" "Trainee"
+}
+alias technical {
+    "Computer" "Science",
+    "Software" "Engineering",
+    "Technical" "Education",
+    "Комп'ютерні" "науки",
+    "Інженерія" "ПЗ"
+}
+alias manager {
+    "Manager",
+    "Team" "Lead",
+    "Lead",
+    "Project" "Manager",
+    "Product" "Manager",
+    "Engineering" "Manager",
+    "Delivery" "Manager",
+    "Head" "of" "Engineering",
+    "Head" "of" "Development",
+    "Tech" "Lead",
+    "Technical" "Lead",
+    "Керівник",
+    "Менеджер",
+    "Тімлід",
+    "Техлід",
+    "Керівник" "команди"
+}
+candidate backend_developer {
+    role {
+        prefer backend_developer
+        prefer python_developer
+    }
+    status {
+        prefer junior
+        never senior
+    }
+    languages {
+        prefer python
+        typescript
+        javascript
+    }
+
+    environment {
+        prefer linux,
+        prefer ubuntu
+        "windows"
+    }
+
+    tools {
+        "PostgreSQL",
+        "Django",
+        prefer "fastAPI"
+    }
+    experience {
+        never experience > 1.5
+        prefer experience == 0
+    }
+    placement {
+        prefer remote,
+        poltava
+    }
+    salary {
+        never < 20000,
+        prefer >= 30000,
+        prefer <= 50000
+    }
+}
+candidate web_scrapper {
+    role {
+        require web_scrapper
+    }
+    status {
+        prefer junior
+        never senior
+    }
+    languages {
+        python
+        typescript
+        javascript
+    }
+
+    environment {
+        linux,
+        ubuntu,
+        "windows"
+    }
+
+    tools {
+        "Playwright",
+        prefer "Camoufox",
+        "PostgreSQL",
+    }
+    experience {
+        never experience > 1.5
+        prefer experience == 0
+    }
+    placement {
+        prefer remote,
+        poltava
+    }
+    salary {
+        never < 20000,
+        prefer >= 30000,
+        prefer <= 50000
+    }
+}
+candidate cpp_software_developer {
+    role {
+        prefer any(
+            system_developer,
+            desktop_developer
+        ),
+        never Embedded
+    }
+    status {
+        prefer junior
+        never senior
+    }
+    languages {
+        require cpp
+    }
+
+    environment {
+        prefer linux,
+        ubuntu weight 0.4,
+        "windows"
+    }
+
+    tools {
+        CMakefiles,
+        Makefiles,
+        prefer "vcpkg",
+    }
+    experience {
+        never experience > 1.5
+        prefer experience == 0
+    }
+    placement {
+        prefer remote,
+        poltava
+    }
+    salary {
+        never < 20000,
+        prefer >= 30000,
+        prefer <= 50000
+    }
+}
