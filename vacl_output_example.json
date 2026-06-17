@@ -1,0 +1,681 @@
+{
+   "backend_developer":{
+      "detail":{
+         "environment":{
+            "breakdown":{
+               "Linux":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Linux] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Ubuntu":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Ubuntu] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "windows":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [windows] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "experience":{
+            "breakdown":{
+               "commercial":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [commercial] holds alignment: not_found",
+                     "score_impact":0.0
+                  },
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [commercial] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "experience":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [experience] holds alignment: ",
+                     "score_impact":0.0
+                  },
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [experience] holds alignment: ",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "languages":{
+            "breakdown":{
+               "keywords_JavaScript_JS_NodeJS_Node.js_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_Python_Py_CPython_PyPy_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_TypeScript_TS_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "placement":{
+            "breakdown":{
+               "keywords_Poltava_Полтава_Poltavs'ka_Полтавська_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_Remote_Віддалено_Дистанційно_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "role":{
+            "breakdown":{
+               "Backend":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Backend] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Python":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Python] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "salary":{
+            "breakdown":{
+               "salary_range":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [salary_range] holds alignment: range_evaluated",
+                     "score_impact":1.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":1.0
+         },
+         "status":{
+            "breakdown":{
+               "Junior":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Junior] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Senior":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Senior] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "tools":{
+            "breakdown":{
+               "keywords_Django_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_PostgreSQL_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_fastAPI_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         }
+      },
+      "disqualified":false,
+      "score":0.125
+   },
+   "cpp_software_developer":{
+      "detail":{
+         "environment":{
+            "breakdown":{
+               "Linux":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Linux] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Ubuntu":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Ubuntu] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "windows":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [windows] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "experience":{
+            "breakdown":{
+               "commercial":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [commercial] holds alignment: not_found",
+                     "score_impact":0.0
+                  },
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [commercial] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "experience":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [experience] holds alignment: ",
+                     "score_impact":0.0
+                  },
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [experience] holds alignment: ",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "languages":{
+            "breakdown":{
+               "keywords_C++_CPP_cplusplus_":[
+                  {
+                     "bad":true,
+                     "mandatory":true,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               "Missing required category profile: languages"
+            ],
+            "disqualified":true,
+            "final_score":0.0
+         },
+         "placement":{
+            "breakdown":{
+               "keywords_Poltava_Полтава_Poltavs'ka_Полтавська_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_Remote_Віддалено_Дистанційно_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "role":{
+            "breakdown":{
+               "Embedded":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Embedded] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "role":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [role] holds alignment: ",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "salary":{
+            "breakdown":{
+               "salary_range":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [salary_range] holds alignment: range_evaluated",
+                     "score_impact":1.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":1.0
+         },
+         "status":{
+            "breakdown":{
+               "Junior":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Junior] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Senior":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Senior] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "tools":{
+            "breakdown":{
+               "keywords_Cmake_CMakefiles_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_makefiles_make_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_vcpkg_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         }
+      },
+      "disqualified":true,
+      "score":0.125
+   },
+   "web_scrapper":{
+      "detail":{
+         "environment":{
+            "breakdown":{
+               "Linux":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Linux] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Ubuntu":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Ubuntu] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "windows":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [windows] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "experience":{
+            "breakdown":{
+               "commercial":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [commercial] holds alignment: not_found",
+                     "score_impact":0.0
+                  },
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [commercial] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "experience":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [experience] holds alignment: ",
+                     "score_impact":0.0
+                  },
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [experience] holds alignment: ",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "languages":{
+            "breakdown":{
+               "keywords_JavaScript_JS_NodeJS_Node.js_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_Python_Py_CPython_PyPy_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_TypeScript_TS_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "placement":{
+            "breakdown":{
+               "keywords_Poltava_Полтава_Poltavs'ka_Полтавська_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_Remote_Віддалено_Дистанційно_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "role":{
+            "breakdown":{
+               "Scraper":[
+                  {
+                     "bad":false,
+                     "mandatory":true,
+                     "reason":"Hybrid Matcher [Scraper] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               "Missing mandatory: Scraper",
+               "Failed requirement: Scraper"
+            ],
+            "disqualified":true,
+            "final_score":0.0
+         },
+         "salary":{
+            "breakdown":{
+               "salary_range":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [salary_range] holds alignment: range_evaluated",
+                     "score_impact":1.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":1.0
+         },
+         "status":{
+            "breakdown":{
+               "Junior":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Junior] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ],
+               "Senior":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"Hybrid Matcher [Senior] holds alignment: not_found",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         },
+         "tools":{
+            "breakdown":{
+               "keywords_Camoufox_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_Playwright_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ],
+               "keywords_PostgreSQL_":[
+                  {
+                     "bad":false,
+                     "mandatory":false,
+                     "reason":"No mention found in text",
+                     "score_impact":0.0
+                  }
+               ]
+            },
+            "disqualification_reason":[
+               
+            ],
+            "disqualified":false,
+            "final_score":0.0
+         }
+      },
+      "disqualified":true,
+      "score":0.125
+   }
+}
