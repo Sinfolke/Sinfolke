@@ -2,39 +2,45 @@
  ## Hi there 👋
 <div align="center">
     <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&pause=1000&width=435&lines=You're+welcome" alt="Hi there. Welcome to my github"/></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&pause=1000&width=435&lines=Welcome+to+my+profile" alt="Welcome to my github"/></a>
     </h1>
 </div>
  -->
 ---
-### Hi there 👋
-You're seeing a **C++** and **JavaScript** developer!  
-I am currently learning to become a **backend developer**, but I have a passion for creating various console applications in C++. I am also planning to get in touch with **Go** language to expand my programming skills.
+### Hi there 👋 I'm Yuriy.
+I am a **Systems & Backend Software Developer** specializing in **C++** and **Python**. I have a deep interest in compiler architecture, language design, low-level hardware interfacing, and building high-performance, asynchronous automation pipelines.
 
 ---
-<!--
-<div align="center">
-    <img src="https://static.vecteezy.com/system/resources/previews/010/871/811/original/3d-a-man-is-working-at-home-using-a-laptop-png.png" alt="Working Illustration" width="150" />
-</div>
- -->
+
 ### 💻 What I'm Working On  
-I’m currently working on **ISPA Parser**, a tool designed to parse data based on customizable rules.  
+*   **[ISPA Parser](https://github.com/Sinfolke)** – A high-performance, infrastructure-level parser generator written from scratch in modern C++ (C++20/23). It utilizes custom DFA lexers, state machine optimization, and Intermediate Representations to transform custom grammars into target source code.
+*   **Phone Check Service** – A hardware-to-cloud diagnostic platform. It features a native C++ application that communicates with iOS and Android devices via USB (using the ADB protocol and libimobiledevice) paired with a high-throughput FastAPI backend.
+*   **Advanced Web Automation** – Engineering resilient asynchronous scraping engines designed to bypass complex anti-bot frameworks, utilizing advanced browser fingerprinting and dynamic proxy rotation.
 
-The goal is to write standalone parser in most simple way.
-
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Sinfolke&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-### What i'm learning
-I'm learning C++ and practising it. I mean I already know the necessary but practise it writing ISPA, at the same time making a useful tool.
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sinfolke&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="My Github stats" />
+</div>
 
 ---
 
 ### My Tech Stack 🛠️
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+
+#### **Languages & Core**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+</div>
+
+#### **Backend, Databases & Build Tools**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="45" height="45" />
 </div>
 
 ---
@@ -51,27 +57,3 @@ I'm learning C++ and practising it. I mean I already know the necessary but prac
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<!--
-<div align="center">
- <!--
-
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
- -->
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
